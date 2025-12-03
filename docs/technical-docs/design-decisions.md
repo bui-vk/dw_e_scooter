@@ -1,7 +1,7 @@
 ---
 title: Design Decisions
 parent: Technical Docs
-nav_order: 5
+nav_order: 3
 ---
 
 [Team Member Name]

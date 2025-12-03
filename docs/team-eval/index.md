@@ -1,7 +1,7 @@
 ---
 title: Team Evaluation
 has_children: true
-nav_order: 5
+nav_order: 3
 ---
 
 [Team Member Name]
