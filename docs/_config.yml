@@ -1,6 +1,5 @@
-remote_theme: just-the-docs/just-the-docs
 title: DW E-Scooter Pipeline
-description: Project from Susanna Amy Huang, Mi-Jou Hsiao, Christina Müller and Victoria-Kim Bui for the module BIPM-M01-F01-WiSe-2025-53707
+remote_theme: just-the-docs/just-the-docs
 mermaid:
   version: "9.4.3" # Pick version from https://cdn.jsdelivr.net/npm/mermaid/
 callouts:
@@ -13,19 +12,3 @@ callouts:
   attention:
     title: ❕ Attention
     color: yellow
-sidebar:
-  - title: Project Structure
-    url: /docs/project_structure/
-  - title: Data Schema
-    url: /docs/data-schema/
-  - title: Data Model
-    url: /docs/data-model/
-  - title: Design Desicions
-    url: /docs/design-desicions/
-  - title: Goals Archieved & Missed
-    url: /docs/goals-archieved-missed/
-  - title: Possibile Improvements
-    url: /docs/possibile-improvements/
-  - title: Contributions
-    url: /docs/contributions/
-

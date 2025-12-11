@@ -1,6 +1,6 @@
 ---
-title: Value Proposition
-nav_order: 1
+title: Project Structure
+nav_order: 2
 ---
 
 [Team Member Name]

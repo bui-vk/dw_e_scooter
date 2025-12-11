@@ -1,6 +1,6 @@
 ---
 title: Data Schema
-parent: Technical Docs
+parent: Technical Documentation
 nav_order: 1
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Data Model
-parent: Technical Docs
+parent: Technical Documentation
 nav_order: 2
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Goals
+title: Goals Achieved & Missed
 parent: Team Evaluation
-nav_order: 1
+nav_order: 2
 ---
 
 [Team Member Name]

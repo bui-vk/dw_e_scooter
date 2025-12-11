@@ -1,8 +1,9 @@
 ---
 title: Contributions
 parent: Team Evaluation
-nav_order: 3
+nav_order: 1
 ---
+
 
 # [Summary of individual contributions]
 {: .no_toc }

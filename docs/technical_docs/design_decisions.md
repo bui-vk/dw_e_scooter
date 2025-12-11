@@ -1,6 +1,6 @@
 ---
 title: Design Decisions
-parent: Technical Docs
+parent: Technical Documentation
 nav_order: 3
 ---
 
